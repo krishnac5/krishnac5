@@ -2,9 +2,9 @@
 #### A data science enthusiast who ❤️ to tell data stories through dashboards:bar_chart:. I am someone who wants to make a real impact and contribute directly to the business benefits of a company🚀
 ### Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-krishnachaitanyakotturu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-chaitanya-kotturu/)](https://www.linkedin.com/in/krishna-chaitanya-kotturu/)
-[![Instagram Badge](https://img.shields.io/badge/-krisnachaitanya2704-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/krisnachaitanya2704/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-krisnachaitanya2704-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/krisnachaitanya2704/)](https://instagram.com/krisnachaitanya2704)
 [![Website Badge](https://img.shields.io/badge/-@krishna-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://krishnachaitanyak.com/)](https://krishnachaitanyak.com)
-[![Gmail Badge](https://img.shields.io/badge/-kotturu.chaitanya.17mb@bml.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotturu.chaitanya.17mb@bml.edu.in)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kotturu.chaitanya.17mb@bml.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotturu.chaitanya.17mb@bml.edu.in)](mailto:kotturu.chaitanya.17mb@bml.edu.in)
 
 - 🌱 I’m currently learning NLP & ML
 - 👯 I’m looking to collaborate on ML & NLP projects
