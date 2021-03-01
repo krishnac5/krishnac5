@@ -1,5 +1,5 @@
 ![Hi, I'm Krishna Chaitanya 👋 I'm a 🚀 Data Story teller 🚀 I ❤️ Movies ❤️](https://github.com/krishnac5/krishnac5/blob/main/Name%20banner.gif)
-#### A data science enthusiast who ❤️ to tell data stories through dashboards:bar_chart:. I am someone who wants to make a real impact and contribute directly to the business benefits of a company🚀
+#### I'm a data science enthusiast who ❤️ to tell data stories through dashboards:bar_chart:. I'm someone who wants to make a real impact and contribute directly to the business benefits of a company🚀
 ### Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-krishnachaitanyakotturu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-chaitanya-kotturu/)](https://www.linkedin.com/in/krishna-chaitanya-kotturu/)
 [![Instagram Badge](https://img.shields.io/badge/-krishnachaitanya2704-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/krishnachaitanya2704/)](https://instagram.com/krishnachaitanya2704)
